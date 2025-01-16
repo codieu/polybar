@@ -1,0 +1,3 @@
+[submodule "rosepine"]
+	path = rosepine
+	url = git@github.com:rose-pine/polybar.git
