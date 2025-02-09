@@ -9,4 +9,4 @@ if [[ "$1" == "--execif" ]]; then
   exit
 fi
 
-echo "$packc "
+echo "$packc "
