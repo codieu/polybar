@@ -1,4 +1,5 @@
 mydate=`date "+%H:%M"`
-hisdate=`date --date="8 hours" "+%H:%M"`
+# it fucking changed again!!
+hisdate=`date --date="7 hours" "+%H:%M"`
 
 printf "$hisdate  $mydate"
